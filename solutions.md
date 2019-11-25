@@ -11,7 +11,7 @@ The text file contained important information about the solution of the stages
 This could lead someone to the first **red herring**, though most people who found this were because they did not realise bitly links are case sensitive: [bit.ly/equusshortspoopy](https://bit.ly/equusshortspoopy). This leads to a video that references Dead Poets Society.
 
 ### GIF file
-This is where the puzzle begins. By opening a GIF in a photo editor, each frame of the GIF can be seen. There are 99 frames, each containing either some creature with a number, or just a black frame. Whilst reverse searching some of the monsters is not possible, eventually, with enough persistance, it is possible to deduce that the monsters are all from a horror YouTube series called '[CryptTV](https://www.youtube.com/crypttv)'.
+This is where the puzzle begins. By opening a GIF in a photo editor, each frame of the GIF can be seen. There are 99 frames, each containing either some creature with a number, or just a black frame. Whilst reverse searching some of the monsters returns no helpful results, eventually, with enough persistance, it is possible to deduce that the monsters are all from a horror YouTube series called '[CryptTV](https://www.youtube.com/crypttv)'.
 Using [a CryptTV wiki](https://crypttv.fandom.com/wiki/Category:Monsters), the monsters in the series are:
 * The Birch
 * The Look-See
@@ -25,7 +25,7 @@ Using [a CryptTV wiki](https://crypttv.fandom.com/wiki/Category:Monsters), the m
 Example of a frame:
 ![Figure1](https://cdn.discordapp.com/attachments/495529780251459584/648433501024026629/unknown.png)
 
-Now, use the numbers to get a letter from the name of the monster that appears in the frame. For example, in the image above, the monster is 'The Birch'. The 4 next to it means the 4th letter. So the result of this frame is 'b'.
+Now, use the numbers to get a letter from the name of the monster that appears in the frame. For example, in the image above, the monster is 'The Birch'. The 4 next to it refers to the 4th letter. So the result of this frame is 'b'.
 
 Going through the frames and identifying the monsters, then using the numbers to index the letters, results in:
 > btyterrorhelp 
@@ -52,7 +52,7 @@ then reading top to bottom, left to right, results in the following link for sta
 The link from stage 1 leads to another dropbox with another zip file.
 
 ### GIF file
-In this GIF, there are only 10 frames. Each frame contained a screenshot of a frame from the famous animated web-series [Salad Fingers](https://www.youtube.com/watch?v=OWBFKL6H7rI&list=PL9383CC2C6DBD902F).
+In this GIF, there are only 10 frames. Each frame contained a screenshot of from the famous animated web-series [Salad Fingers](https://www.youtube.com/watch?v=OWBFKL6H7rI&list=PL9383CC2C6DBD902F).
 
 Hidden in each frame are numbers, though they are still somewhat visible, it is intended that with some image manipulation (changing brightness / contrast), they would be easier to see.
 
