@@ -41,6 +41,9 @@ Another 2 **red herrings** are assuming that the link contains actual words, and
 
 Putting the two strings together:
 > btyterrorhelp
+
 > ilexampoopies
+
 then reading top to bottom, left to right, results in the following link for stage 2:
+
 [bit.ly/etxearmrpoorohpeileps](https://bit.ly/etxearmrpoorohpeileps)
