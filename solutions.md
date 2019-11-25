@@ -64,7 +64,7 @@ After:
 
 This time, the numbers don't act as an index into any names, rather, they represent seconds. By matching the screenshot to the video in which the screenshot appears, there is one word *spoken* in that second. 
 
-**ERROR**  
+#### ERROR
 There is one error in this stage of the puzzle.
 In the following frame:
 ![error frame](https://cdn.discordapp.com/attachments/495529780251459584/648448954706690048/unknown.png)
