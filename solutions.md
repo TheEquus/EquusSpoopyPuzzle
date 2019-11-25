@@ -11,7 +11,7 @@ The text file contained important information about the solution of the stages
 This could lead someone to the first **red herring**, though most people who found this were because they did not realise bitly links are case sensitive: [bit.ly/equusshortspoopy](https://bit.ly/equusshortspoopy). This leads to a video that references Dead Poets Society.
 
 ### GIF file
-This is where the puzzle begins. In it are 99 frames, each containing either some creature with a number, or just a black frame. Whilst reverse searching some of the monsters is not possible, eventually, with enough persistance, it is possible to deduce that the monsters are all from a horror YouTube series called '[CryptTV](https://www.youtube.com/crypttv)'.
+This is where the puzzle begins. By opening a GIF in a photo editor, each frame of the GIF can be seen. There are 99 frames, each containing either some creature with a number, or just a black frame. Whilst reverse searching some of the monsters is not possible, eventually, with enough persistance, it is possible to deduce that the monsters are all from a horror YouTube series called '[CryptTV](https://www.youtube.com/crypttv)'.
 Using [a CryptTV wiki](https://crypttv.fandom.com/wiki/Category:Monsters), the monsters in the series are:
 * The Birch
 * The Look-See
@@ -39,11 +39,58 @@ Putting this together, the result is:
 
 Another 2 **red herrings** are assuming that the link contains actual words, and both [bit.ly/terrorhelpexampoopies](https://bit.ly/terrorhelpexampoopies) and [bit.ly/exampoopiesterrorhelp](https://bit.ly/exampoopiesterrorhelp) lead to random links (though the former acts as a clue to what will come next).
 
-Putting the two strings together:
-> btyterrorhelp
-
-> ilexampoopies
+Putting the two strings together:  
+btyterrorhelp  
+ilexampoopies
 
 then reading top to bottom, left to right, results in the following link for stage 2:
 
 [bit.ly/etxearmrpoorohpeileps](https://bit.ly/etxearmrpoorohpeileps)
+
+## Stage 2
+
+The link from stage 1 leads to another dropbox with another zip file.
+
+### GIF file
+In this GIF, there are only 10 frames. Each frame contained a screenshot of a frame from the famous animated web-series [Salad Fingers](https://www.youtube.com/watch?v=OWBFKL6H7rI&list=PL9383CC2C6DBD902F).
+
+Hidden in each frame are numbers, though they are still somewhat visible, it is intended that with some image manipulation (changing brightness / contrast), they would be easier to see.
+
+Before changing brightness/contrast:
+![before image manipulation](https://cdn.discordapp.com/attachments/495529780251459584/648445675981242371/unknown.png)
+
+After:
+![after image manipulation](https://cdn.discordapp.com/attachments/495529780251459584/648446858171252746/unknown.png)
+
+This time, the numbers don't act as an index into any names, rather, they represent seconds. By matching the screenshot to the video in which the screenshot appears, there is one word *spoken* in that second. 
+
+**ERROR**  
+There is one error in this stage of the puzzle.
+In the following frame:
+![error frame](https://cdn.discordapp.com/attachments/495529780251459584/648448954706690048/unknown.png)
+The number that appears is 70. The correct number should be 75.
+
+The following contains where each word comes from:
+* Word 1: spoons (ep 1, 1:02)
+* Word 2: heads (ep 9, 4:43)
+* Word 3: really (ep4, 1:40)
+* Word 4: fatigued (ep3, 2:37)
+* Word 5: flesh (ep 10, 6:42)
+* Word 6: sand (ep 7, 2:07)
+* Word 7: why (ep 5, 2:01)
+* Word 8: improved (ep 11, 2:55)
+* Word 9: crikey (ep 6, 2:10)
+* Word 10: hair (ep 8, 2:40)
+
+putting this together, the result is:  
+> spoonsheadsreallyfatiguedfleshsandwhyimprovedcrikeyhair
+
+### Locked ZIP file
+This file is password protected, however, by using the password obtained from the GIF file, the contents hidden within are revealed...
+
+## The end
+Inside was just a text file, containing the following:  
+>Congrats! You've finished Equus' Short Spoopies puzzle.
+Just so I know you've finished, DM me a picture of a cute animal.
+
+And that's it!
