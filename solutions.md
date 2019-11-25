@@ -68,7 +68,7 @@ This time, the numbers don't act as an index into any names, rather, they repres
 There is one error in this stage of the puzzle.
 In the following frame:
 ![error frame](https://cdn.discordapp.com/attachments/495529780251459584/648448954706690048/unknown.png)
-The number that appears is 70. The correct number should be 75.
+The number that appears is 170. The correct number should be 175.
 
 The following contains where each word comes from:
 * Word 1: spoons (ep 1, 1:02)
